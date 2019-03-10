@@ -8,9 +8,9 @@ This is the first draft of our roadmap to complete the project under Cohort 7 of
 Check out the different milestones listed below.
 
 ### Milestone 0 : Make it contributor friendly
-- [x] Include README.md
-- [x] Include Code of Conduct
-- [x] Include Participation Guidelines
+* [ ] Include README.md
+* [ ] Include Code of Conduct
+* [ ] Include Participation Guidelines
 
 ### Milestone 1 : Code Prototype
 Create a code prototype to test if it works at real time and the accuracy of the conversion from code to flowchart.
