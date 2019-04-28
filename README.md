@@ -2,6 +2,8 @@
 
 **We are building new navigation standards for a better visualization and understanding of code.**
 
+[![Gitter](https://badges.gitter.im/NoCommentsOL7/community.svg)](https://gitter.im/NoCommentsOL7/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## Welcome!
 First and foremost, Thank you for visiting the No Comments project repository! 🎉
 
